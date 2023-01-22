@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "tsc",
     "lint:spell": "cspell '**'"
   },
   "dependencies": {
