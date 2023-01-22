@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "lint:spell": "cspell '**'"
+  },
   "dependencies": {
     "cspell": "^6.19.2"
   },
